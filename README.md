@@ -1,5 +1,18 @@
 # Análisis de la ENNyS 2
 
+---
+## ¿Por qué este proyecto?
+
+* Datos **oficiales y representativos** de Argentina. ENNyS 2 es la foto nutricional y de salud más completa y reciente del país. Poner el foco en ultraprocesados en adultos conecta con hipertensión, diabetes, obesidad y costos sanitarios directos.
+
+* Tema **socialmente relevante**: impacto de ultraprocesados en salud adulta. No es un tema técnico aislado: responde a una pregunta socialmente relevante —¿cuánto aportan los ultraprocesados a empeorar indicadores de salud?
+
+* Permite aplicar todos los temas de Análisis de Datos II: inferencia paramétrica y no paramétrica, comparaciones múltiples, bootstrap, modelos..
+
+* Aprendizaje “del mundo real: Datos oficiales y multi‑archivo, filtrado por subpoblaciones, joins con diccionarios, manejo de faltantes y decisiones de codificación. Es exactamente lo que nos van a pedir afuera.
+
+
+---
 ## Instructivo de descarga de las bases de datos
 
 **Importante:**  
