@@ -34,3 +34,32 @@ Listado maestro de alimentos, bebidas y suplementos con su composición nutricio
 Link de descarga:
 http://datos.salud.gob.ar/dataset/2d008878-d0d7-44d8-a6f8-e5ec1ed769fe/resource/815688ad-d43a-490c-95c6-cb366fc09d75/download/base_nutrientes.zip
 
+---
+
+## Documentación recomendada
+
+Antes de comenzar con el análisis, se recomienda leer la siguiente documentación para familiarizarse con la estructura y el contenido de las bases de datos:
+
+1. **Manual metodológico ENNyS 2**  
+   Explica el diseño muestral, los cuestionarios aplicados, la población objetivo y el procedimiento de recolección de datos.  
+   Archivo: `doc/ennys2_manual_metodologico.doc`
+
+2. **Base de nutrientes (SARA 2)**  
+   Describe el sistema argentino de alimentos, la estructura de la tabla de composición y el significado de cada campo.  
+   Archivo: `doc/base_nutrientes.pdf`  
+   *(Usada para convertir el consumo de alimentos en nutrientes totales y clasificar ultraprocesados)*
+
+3. **Base de alimentos, bebidas y suplementos**  
+   Explica la codificación de alimentos, bebidas y suplementos utilizada en la encuesta.  
+   Archivo: `doc/base_alimentos_bebidas_suplementos.pdf`
+
+4. **Diccionario de variables (ennys2_variables.csv)**  
+   Lista de variables presentes en la base principal y su descripción.  
+   Archivo: `doc/ennys2_variables.csv`  
+   *(No hay versión oficial en PDF; este CSV cumple esa función)*
+
+---
+
+**Recomendación:**  Comenzar leyendo el *Manual metodológico* para entender cómo se recolectaron los datos, luego revisar el *diccionario de variables* y finalmente explorar las tablas de alimentos y nutrientes para comprender cómo se calculan los indicadores que vamos a usar.
+
+
