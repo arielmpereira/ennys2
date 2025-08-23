@@ -1,9 +1,13 @@
 import pandas as pd
 from herramientas.lector import Lector
+from herramientas.fechas import edad
 
 def personas():
     l = Lector("./data/ENNyS2_encuesta.csv")
-    df = l.extracto_variables(("MHDR_KEY", "E_CUEST", "region", "fecha_entr", "antropo_fnac", "antropo_sex", "PESO", "TALLA", "IMC", "ZPE", "ZTE", "PTZ", "Cobertura_salud"), variables_fecha=("fecha_entr", "antropo_fnac"))
+    df = l.extracto_variables(
+        ("MHDR_KEY", "E_CUEST", "region", "fecha_entr", "antropo_fnac", "antropo_sex", "PESO", "TALLA", "IMC", "ZPE", "ZTE", "PTZ", "Cobertura_salud"), 
+        variables_fecha=("fecha_entr", "antropo_fnac"))
+    df["años_cumplidos"] = df.apply(lambda fila: edad(fila["antropo_fnac"], fila["fecha_entr"]), axis=1)
     print("Personas:", len(df))
     print(df.head())
 
