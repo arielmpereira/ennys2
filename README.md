@@ -75,4 +75,21 @@ Antes de comenzar con el análisis, se recomienda leer la siguiente documentaci�
 
 **Recomendación:**  Comenzar leyendo el *Manual metodológico* para entender cómo se recolectaron los datos, luego revisar el *diccionario de variables* y finalmente explorar las tablas de alimentos y nutrientes para comprender cómo se calculan los indicadores que vamos a usar.
 
+---
 
+## Cálculos
+Se pueden ejecutar los cálculos corriendo:
+   
+     python main.py 
+
+Salida esperada
+
+      Personas: 21358
+      MHDR_KEY        E_CUEST region        Cobertura_salud   PESO  TALLA       IMC  fecha_entr antropo_fnac antropo_sex  ZPE  ZTE  PTZ
+      0   447/25/38/1/2/2/26/23/53/111/2  18 o mas años    GBA           Solo pública   72.2  153.3  30.72224  2018-09-18   1965-05-04       mujer  NaN  NaN  NaN
+      1  447/25/21/2/6/2/17/23/56/111/11  18 o mas años    GBA  Obra social o prepaga  118.2  170.5  40.66013  2018-09-19   1961-11-07       mujer  NaN  NaN  NaN
+      2   266/43/53/1/3/1/36/23/50/121/3  18 o mas años    NEA           Solo pública   74.5  164.3  27.59822  2018-09-20   1960-01-22       mujer  NaN  NaN  NaN
+      3     266/43/9/1/1/1/6/23/53/111/8  18 o mas años    NEA           Solo pública   54.9  150.0  24.40000  2018-09-20   1965-09-09       mujer  NaN  NaN  NaN
+      4  447/25/118/1/4/1/92/23/34/111/9  18 o mas años    GBA  Obra social o prepaga   98.3  155.6  40.60078  2018-09-20   1984-01-14       mujer  NaN  NaN  NaN
+      Alimentos: 26028
+      Nutrientes: 26028
