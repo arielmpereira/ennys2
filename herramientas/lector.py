@@ -3,7 +3,6 @@ from os.path import expanduser
 from io import StringIO
 import csv
 from datetime import date
-from math import isnan
 
 class Lector:
     def __init__(self, archivo_datos_nombre):
@@ -26,7 +25,6 @@ class Lector:
         df = pd.read_csv(temp)
         self._conversion_fechas(variables_fecha, df)
         return df
-    
   
     def _conversion_fechas(self, variables, df):
         for variable in variables:
@@ -37,9 +35,7 @@ class Lector:
         res = fecha_cadena
         if isinstance(fecha_cadena, str):
             c = fecha_cadena.split("/")
-            if len(c) < 3:
-                print(fecha_cadena)
-            else:
+            if len(c) == 3:
                 res = date(int(c[2]), int(c[0]), int(c[1]))
 
         return res
