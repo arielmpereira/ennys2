@@ -152,43 +152,43 @@ Barra de cereal fortificada|A106|
 Barra de cereal light|A107|
 Barra de cereales, PROMEDIO|A008|
 Batata|A073|
-Bizcochitos de grasa envasados|A108|
-Bizcochitos de grasa envasados light|A109|
-Bizcochitos de arroz envasados (tipo galletita)|A110|
-Bizcochos de grasa (panadería) / Criollitos, Libritos (pan con grasa)|A009|
+Bizcochitos de grasa envasados|A108|True
+Bizcochitos de grasa envasados light|A109|True
+Bizcochitos de arroz envasados (tipo galletita)|A110|True
+Bizcochos de grasa (panadería) / Criollitos, Libritos (pan con grasa)|A009|True
 Bizcochos tipo Bay Biscuit|A010|
 Bizcochuelo preparado (panadería)|A229|
 Bizcochuelo preparado a partir de polvo premezcla|A111|
 Bizcochuelo preparado a partir de polvo premezcla, SIN TACC|A112|
 Bollitos de anís|A113|
-Brownie (panadería)|A236|
-Budín industrializado|A114|
-Budín industrializado con nueces, tipo navideño|A234|
-Capelettis / capelettinis deshidratados, envasados|A115|
+Brownie (panadería)|A236|True
+Budín industrializado|A114|True
+Budín industrializado con nueces, tipo navideño|A234|True
+Capelettis / capelettinis deshidratados, envasados|A115|True
 Capelettis frescos, artesanal|A011|
-Cereal desayuno, aritos frutales|A074|
-Cereal desayuno, aritos sabor miel|A182|
-Cereal desayuno, bolitas de chocolate|A194|
-Cereal desayuno, copos de maíz sin azúcar, sin fortificar|A075|
-Cereal infantil para papilla|A116|
-Cheesecake (panadería / confitería)|A248|
+Cereal desayuno, aritos frutales|A074|True
+Cereal desayuno, aritos sabor miel|A182|True
+Cereal desayuno, bolitas de chocolate|A194|True
+Cereal desayuno, copos de maíz sin azúcar, sin fortificar|A075|True
+Cereal infantil para papilla|A116|True
+Cheesecake (panadería / confitería)|A248|True
 Chipá|A013|
-Chipá preparado a partir de polvo premezcla|A120|
-Chipaco o pan con chicharrón, comprado|A216|
+Chipá preparado a partir de polvo premezcla|A120|True
+Chipaco o pan con chicharrón, comprado|A216|True
 Choclo|A076|
 Choclo, congelado en grano|A176|
 Choclo, enlatado cremoso|A078|
 Choclo, enlatado en grano|A077|
-Churros|A014|
-Cereal desayuno, copos de cereal integral (arroz y maíz), fortificados|A180|
-Cereal desayuno, copos azucarados, sin fortificar|A012|
-Cereal desayuno, copos azucarados, fortificados|A117|
-Coquitos (panadería)|A204|
+Churros|A014|True
+Cereal desayuno, copos de cereal integral (arroz y maíz), fortificados|A180|True
+Cereal desayuno, copos azucarados, sin fortificar|A012|True
+Cereal desayuno, copos azucarados, fortificados|A117|True
+Coquitos (panadería)|A204|True
 Cous Cous|A118|
-Cucurucho / cubanito|A119|
+Cucurucho / cubanito|A119|True
 Empanaditas chinas (restaurant)|A250|
-Facturas rellenas|A015|
-Facturas simples|A016|
+Facturas rellenas|A015|True
+Facturas simples|A016|True
 Farofa tradicional, harina de mandioca condimentada, envasada lista para preparar|A192|
 Fideos de arroz, SIN TACC|A207|
 Fideos frescos, al huevo|A017|
@@ -203,39 +203,39 @@ Galleta marinera con semillas / galletitas crackers con semillas|A188|
 Galleta marinera integral|A253|
 Galleta marinera, light en grasas|A203|
 Galletas de arroz|A019|
-Galletas de arroz horneadas tipo snack varios sabores|A185|
+Galletas de arroz horneadas tipo snack varios sabores|A185|True
 Galletas de arroz sin sal|A123|
 Galletitas integrales sin sal|A067|
-Galletitas dulces con centro de membrillo o similar (tipo Pepas)|A186|
-Galletitas dulces con chips de chocolate|A181|
-Galletitas dulces hojaldradas|A220|
-Galletitas dulces rellenas|A023|
-Galletitas dulces rellenas bañadas en chocolate|A211|
-Galletitas dulces simples|A024|
-Galletitas dulces sin azúcar agregada, con edulcorante (dietética)|A205|
-Galletitas dulces, SIN TACC|A124|
-Galletitas dulces de almidón de maíz (tapita de alfajor)|A177|
-Galletitas dulces tipo Frutigran|A125|
-Galletitas dulces obleas|A068|
-Galletitas de agua, PROMEDIO|A020|
-Galletitas de agua sin sal|A066|
-Galletitas de agua sin sal con chía y lino|A258|
-Galletitas de agua con girasol alto oleico|A127|
-Galletitas de agua con grasa vacuna|A021|
-Galletitas de agua light|A247|
-Galletitas de salvado o integrales|A022|
-Galletitas tipo copetín|A126|
-Galletitas tipo talitas o fajitas|A198|
-Galletitas de vainilla con chips de chocolate (panadería)|A254|
+Galletitas dulces con centro de membrillo o similar (tipo Pepas)|A186|True
+Galletitas dulces con chips de chocolate|A181|True
+Galletitas dulces hojaldradas|A220|True
+Galletitas dulces rellenas|A023|True
+Galletitas dulces rellenas bañadas en chocolate|A211|True
+Galletitas dulces simples|A024|True
+Galletitas dulces sin azúcar agregada, con edulcorante (dietética)|A205|True
+Galletitas dulces, SIN TACC|A124|True
+Galletitas dulces de almidón de maíz (tapita de alfajor)|A177|True
+Galletitas dulces tipo Frutigran|A125|True
+Galletitas dulces obleas|A068|True
+Galletitas de agua, PROMEDIO|A020|True
+Galletitas de agua sin sal|A066|True
+Galletitas de agua sin sal con chía y lino|A258|True
+Galletitas de agua con girasol alto oleico|A127|True
+Galletitas de agua con grasa vacuna|A021|True
+Galletitas de agua light|A247|True
+Galletitas de salvado o integrales|A022|True
+Galletitas tipo copetín|A126|True
+Galletitas tipo talitas o fajitas|A198|True
+Galletitas de vainilla con chips de chocolate (panadería)|A254|True
 Garbanzos|A025|
 Garbanzos, enlatados|A128|
 Gérmen de trigo|A129|
 Granola|A026|
-Grisines|A069|
-Grisines sin sal|A130|
+Grisines|A069|True
+Grisines sin sal|A130|True
 Guiso de lentejas (envasado, fortificado con vitaminas y minerales)|A244|
 Hamburguesa de quinoa envasada|A260|
-Hamburguesa de soja congelada|A175|
+Hamburguesa de soja congelada|A175|True
 Harina de algarrobo|A027|
 Harina de arroz|A028|
 Harina de cebada|A029|
@@ -246,33 +246,33 @@ Harina de maíz|A031|
 Harina de quinoa|A070|
 Harina de soja|A032|
 Harina de trigo|A033|
-Harina de trigo con levadura para pizza|A202|
-Harina de trigo fortificada|A132|
-Harina de trigo integral|A034|
-Harina leudante|A133|
+Harina de trigo con levadura para pizza|A202|True
+Harina de trigo fortificada|A132|True
+Harina de trigo integral|A034|True
+Harina leudante|A133|True
 Lentejas|A035|
 Lentejas, enlatadas|A134|
-Milanesa de lentejas (dietética)|A259|
+Milanesa de lentejas (dietética)|A259|True
 Levadura en polvo|A178|
 Levadura fresca|A179|
-Madalenas|A135|
-Madalenas rellenas|A187|
-Madalenas fortificadas|A136|
+Madalenas|A135|True
+Madalenas rellenas|A187|True
+Madalenas fortificadas|A136|True
 Maíz, grano entero|A036|
-Masa de pizza, preparada a partir de polvo premezcla|A197|
-Masa de pizza, preparada a partir de polvo premezcla, SIN TACC|A138|
-Masa de prepizza de panadería o envasada|A038|
-Masa de tarta o empanadas|A037|
-Masa de tarta o empanadas light|A139|
-Masa de tarta o empanada, integral|A252|
-Masa de tarta, SIN TACC|A218|
-Masas finas surtidas (panadería / confitería)|A242|
-Masas secas surtidas (panadería / confitería)|A232|
-Muffins veganos|A217|
-Ñoquis de espinaca envasados|A233|
+Masa de pizza, preparada a partir de polvo premezcla|A197|True
+Masa de pizza, preparada a partir de polvo premezcla, SIN TACC|A138|True
+Masa de prepizza de panadería o envasada|A038|True
+Masa de tarta o empanadas|A037|True
+Masa de tarta o empanadas light|A139|True
+Masa de tarta o empanada, integral|A252|True
+Masa de tarta, SIN TACC|A218|True
+Masas finas surtidas (panadería / confitería)|A242|True
+Masas secas surtidas (panadería / confitería)|A232|True
+Muffins veganos|A217|True
+Ñoquis de espinaca envasados|A233|True
 Ñoquis de papa frescos, artesanal|A039|
-Ñoquis de papa, envasados|A140|
-Ñoquis preparados a partir de polvo premezcla|A171|
+Ñoquis de papa, envasados|A140|True
+Ñoquis preparados a partir de polvo premezcla|A171|True
 Ñoquis preparados a partir de polvo premezcla, SIN TACC|A172|
 Panko (pan rallado japonés)|A241|
 Pan árabe|A071|
@@ -289,89 +289,89 @@ Pan de salvado con semillas|A184|
 Pan de molde con salvado sin sal|A141|
 Pan de salvado sin sal (panadería)|A246|
 Pan de viena|A046|
-Pan dulce|A142|
+Pan dulce|A142|True
 Pan francés o pan casero sin agregado de grasa o aceite|A041|
 Pan francés sin sal|A245|
-Pan blanco, tipo molde, lacteado|A047|
-Pan lactal, SIN TACC|A237|
+Pan blanco, tipo molde, lacteado|A047|True
+Pan lactal, SIN TACC|A237|True
 Pan negro sin levadura|A049|
-Pan para panchos o hamburguesas, envasado|A143|
+Pan para panchos o hamburguesas, envasado|A143|True
 Pan paraguayo / galleta paraguaya (bollitos con levadura, harina, grasa o manteca, leche, huevos y anís) |A231|
-Pan rallado|A050|
-Pan rallado, SIN TACC|A226|
-Pan rallado, fortificado|A144|
+Pan rallado|A050|True
+Pan rallado, SIN TACC|A226|True
+Pan rallado, fortificado|A144|True
 Pan figacita de manteca|A169|
 Papa|A079|
 Papa, croquetas u otro preformado de papa rebozado, prefrito, congelado|A153|
-Papa, puré instantáneo (polvo)*|A152|
-Papas prefritas congeladas envasadas|A145|
+Papa, puré instantáneo (polvo)*|A152|True
+Papas prefritas congeladas envasadas|A145|True
 Pastas secas, SIN TACC|A146|
-Pastelitos rellenos de dulce de membrillo o batata (panadería / confitería)|A249|
+Pastelitos rellenos de dulce de membrillo o batata (panadería / confitería)|A249|True
 Patay|A147|
 Pionono|A148|
 Pochoclo acaramelado|A149|
 Pochoclo salado|A150|
 Polvo de hornear|A190|
-Polvo para preparar brownie*|A189|
+Polvo para preparar brownie*|A189|True
 Porotos|A051|
 Soja, porotos|A052|
 Porotos, enlatados|A151|
-Milanesa de arroz, prefrita|A165|
-Milanesa de soja, prefrita|A164|
-Premezcla para panificados, pastas y postres, SIN TACC|A213|
-Premezcla para bizcochuelo, SIN TACC|A256|
-Puflito|A154|
-Quinoa inflada|A155|
+Milanesa de arroz, prefrita|A165|True
+Milanesa de soja, prefrita|A164|True
+Premezcla para panificados, pastas y postres, SIN TACC|A213|True
+Premezcla para bizcochuelo, SIN TACC|A256|True
+Puflito|A154|True
+Quinoa inflada|A155|True
 Quinoa, semilla|A053|
-Ravioles deshidratados, envasados|A157|
+Ravioles deshidratados, envasados|A157|True
 Ravioles frescos, artesanal, SIN TACC|A225|
 Ravioles frescos, artesanal|A054|
 Ravioles frescos, envasados|A156|
-Rosca de pascuas (panadería / confitería)|A223|
+Rosca de pascuas (panadería / confitería)|A223|True
 Rosquete|A243|
-Rosquita tipo Doughtnut|A210|
-Rosquita tipo Doughtnut bañada en chocolate|A227|
+Rosquita tipo Doughtnut|A210|True
+Rosquita tipo Doughtnut bañada en chocolate|A227|True
 Rosquita tipo Doughtnut de chocolate|A219|
 Rosquito de vino (cuyano)|A209|
 Salvado de avena|A055|
 Salvado de trigo|A056|
 Cereal desayuno, salvado de trigo tipo bastoncitos|A057|
-Scones (panadería / confitería)|A196|
-Seitán, sucedáneo de carne a base de gluten de trigo|A214|
+Scones (panadería / confitería)|A196|True
+Seitán, sucedáneo de carne a base de gluten de trigo|A214|True
 Sémola|A058|
 Sémola fortificada|A195|
-Soja texturizada|A170|
+Soja texturizada|A170|True
 Sorrentinos frescos, artesanal|A200|
 Sushi, PROMEDIO|A183|
-Tapas para lasagna, pasta seca|A222|
+Tapas para lasagna, pasta seca|A222|True
 Tapioca (almidón de mandioca)|A059|
 Tofu|A168|
-Torta de coco (panadería)|A238|
-Torta de cumpleaños (masa, relleno y cobertura). Comprada lista para consumir, SIN TACC |A224|
-Torta de manzana (panadería)|A251|
-Torta de ricotta (panadería)|A235|
-Torta frita|A062|
-Torta mil hojas|A228|
-Tortillas de trigo, envasadas|A208|
+Torta de coco (panadería)|A238|True
+Torta de cumpleaños (masa, relleno y cobertura). Comprada lista para consumir, SIN TACC |A224|True
+Torta de manzana (panadería)|A251|True
+Torta de ricotta (panadería)|A235|True
+Torta frita|A062|True
+Torta mil hojas|A228|True
+Tortillas de trigo, envasadas|A208|True
 Tortitas Jachaleras|A158|
-Tostadas de gluten|A159|
-Tostadas de mesa|A160|
-Tostadas integrales|A161|
-Tostadas light|A162|
-Tostadas sin sal|A163|
-Tostaditas saladas, saborizadas, producto tipo copetín|A221|
+Tostadas de gluten|A159|True
+Tostadas de mesa|A160|True
+Tostadas integrales|A161|True
+Tostadas light|A162|True
+Tostadas sin sal|A163|True
+Tostaditas saladas, saborizadas, producto tipo copetín|A221|True
 Trigo burgol|A239|
 Trigo, grano entero|A060|
 Trigo inflado azucarado|A230|
 Triguillo|A199|
-Turrón de maní con oblea tipo golosina|A173|
-Turrón tipo navideño|A174|
-Tutuca|A166|
-Vainillas|A061|
+Turrón de maní con oblea tipo golosina|A173|True
+Turrón tipo navideño|A174|True
+Tutuca|A166|True
+Vainillas|A061|True
 Alimento a base de leche entera y café, fortificado con calcio, varios sabores, listo para consumir |L065|
 Leche chocolatada en polvo, fortificada, para desayunos escolares*|L044|
 Leche parcialmente descremada, sabor chocolate o dulce de leche, fortificada con vitaminas A y D, lista para consumir |L001|
-Leche condensada|L034|
+Leche condensada|L034|True
 Leche de cabra, entera, fluida|L002|
 Leche de cabra, entera, en polvo*|L070|
 Leche de oveja, entera, fluida|L003|
@@ -430,12 +430,12 @@ Bebida láctea parcialmente descremada fluida, baja en lactosa, fortificada con 
 Probióticos descremados|L017|
 Probióticos enteros|L018|
 Bebida láctea a base de agua, yogurt, azúcar y saborizantes|Y019|
-Flan envasado listo para consumir light|Y007|
-Flan envasado listo para consumir|Y006|
-Postre de leche bebible infantil|L013|
-Postre de leche listo para consumir light|L015|
-Postre de leche listo para consumir tipo Danonino|L016|
-Postre de leche listo para consumir tipo Serenito|L014|
+Flan envasado listo para consumir light|Y007|True
+Flan envasado listo para consumir|Y006|True
+Postre de leche bebible infantil|L013|True
+Postre de leche listo para consumir light|L015|True
+Postre de leche listo para consumir tipo Danonino|L016|True
+Postre de leche listo para consumir tipo Serenito|L014|True
 Yogur con fitoesteroles|Y014|
 Yogur descremado|Y003|
 Yogur descremado bebible|Y005|
@@ -450,8 +450,8 @@ Yogur entero natural|Y001|
 Yogur entero saborizado|Y002|
 Yogur descremado fortificado con calcio|Y015|
 Yogur fortificado con hierro|Y016|
-Adherezo deshidratado a base de queso Reggianito, sémola y almidones|Q033|
-Muzzarella rebozada prefrita|Q043|
+Adherezo deshidratado a base de queso Reggianito, sémola y almidones|Q033|True
+Muzzarella rebozada prefrita|Q043|True
 Muzzarella rebozada sin freir (pollería o granja)|Q048|
 Quesillo (preparación regional, queso amasado artesanal)|Q049|
 Queso Azul|Q022|
@@ -548,10 +548,10 @@ Guanaco, carne|C111|
 Hamburguesa de carne vacuna (carnicería)|C118|
 Hamburguesa de cerdo (carnicería)|C116|
 Hamburguesa de pollo (pollería / granja)|C113|
-Hamburguesa de carne vacuna, industrializada|C011|
-Hamburguesa de carne vacuna, industrializada, rebozada|C124|
-Hamburguesa de carne vacuna, industrializada light|C053|
-Hamburguesa de pollo, industrializada|C010|
+Hamburguesa de carne vacuna, industrializada|C011|True
+Hamburguesa de carne vacuna, industrializada, rebozada|C124|True
+Hamburguesa de carne vacuna, industrializada light|C053|True
+Hamburguesa de pollo, industrializada|C010|True
 Hígado|C012|
 Hígado de pollo|C122|
 Jabalí|C103|
@@ -568,7 +568,7 @@ Llama|C128|
 Longaniza|C055|
 Matambre (corte de carne)|C080|
 Matambre (fiambre)|C057|
-Medallón de pollo relleno de jamón y queso, prefrito congelado|C114|
+Medallón de pollo relleno de jamón y queso, prefrito congelado|C114|True
 Milanesa de carne vacuna rebozada (carnicería)|C106|
 Milanesa de cerdo (carnicería)|C126|
 Milanesa de pollo rebozada (pollería / granja)|C068|
@@ -578,7 +578,7 @@ Mondongo|C015|
 Morcilla|C016|
 Mortadela|C017|
 Nalga|C081|
-Nuggets o patitas de pollo|C070|
+Nuggets o patitas de pollo|C070|True
 Nutria|C112|
 Osobuco|C108|
 Paleta (corte de carne)|C087|
@@ -600,15 +600,15 @@ Queso de cerdo|C024|
 Rana|C117|
 Riñón|C025|
 Roast beef|C086|
-Salame|C026|
-Salchicha de viena|C027|
-Salchicha de viena light|C066|
+Salame|C026|True
+Salchicha de viena|C027|True
+Salchicha de viena light|C066|True
 Salchicha parrillera|C028|
 Salchicha rellena con cheddar|C119|
-Salchichón|C067|
+Salchichón|C067|True
 Sesos|C029|
-Suprema de pollo con espinaca y queso, prefrita congelada|C071|
-Suprema de pollo con jamón y queso, prefrita congelada|C072|
+Suprema de pollo con espinaca y queso, prefrita congelada|C071|True
+Suprema de pollo con jamón y queso, prefrita congelada|C072|True
 Tatú|C096|
 Tortuguita|C090|
 Ubre|C030|
@@ -628,8 +628,8 @@ Abadejo|P029|
 Almeja|P042|
 Anchoa, enlatada en aceite|P010|
 Anchoa, pasta|P009|
-Atún, enlatado en aceite|P008|
-Atún, enlatado al natural|P007|
+Atún, enlatado en aceite|P008|True
+Atún, enlatado al natural|P007|True
 Atún, lomito fresco|P028|
 Bocaditos de pescado, prefritos|P041|
 Brótola|P021|
@@ -645,11 +645,11 @@ Hamburguesa de pescado (pescadería)|P046|
 Kani Kama|P039|
 Langostino|P005|
 Lenguado|P022|
-Medallón de pescado relleno con queso y espinaca, prefrito|P043|
+Medallón de pescado relleno con queso y espinaca, prefrito|P043|True
 Mejillón|P006|
 Merluza|P020|
-Merluza, enlatada en agua y aceite|P045|
-Milanesa de pescado, prefrita|P040|
+Merluza, enlatada en agua y aceite|P045|True
+Milanesa de pescado, prefrita|P040|True
 Pacú|P036|
 Palometa|P033|
 Pejerrey|P030|
@@ -661,8 +661,8 @@ Rabas (restaurant)|P047|
 Sábalo|P037|
 Salmón blanco|P026|
 Salmón rosado|P027|
-Sardinas, enlatadas al natural|P044|
-Sardinas, enlatadas en aceite|P013|
+Sardinas, enlatadas al natural|P044|True
+Sardinas, enlatadas en aceite|P013|True
 Surubí|P034|
 Trucha|P032|
 Aceite comestible mezcla|Z003|
@@ -713,9 +713,9 @@ Semilla de sésamo|Z015|
 Semilla de zapallo|Z044|
 Semilla de amapola|Z046|
 Semilla de lino|Z039|
-Azúcar blanca molida|D003|
-Azúcar light|D070|
-Azúcar impalpable|D127|
+Azúcar blanca molida|D003|True
+Azúcar light|D070|True
+Azúcar impalpable|D127|True
 Azúcar morena / azúcar mascabo|D004|
 Edulcorante en polvo con aspartamo y acesulfame k|D083|
 Edulcorante en polvo con sacarina y ciclamato (tipo Hileret clásico 1 a 10, Sucaryl clásico)|D084|
@@ -732,170 +732,170 @@ Edulcorante líquido con stevia|D072|
 Edulcorante líquido con sucralosa|D090|
 Edulcorante líquido, PROMEDIO|D087|
 Glucosa|D116|
-Alfajor de arroz|D037|
-Alfajor de chocolate|D001|
-Alfajor de chocolate con relleno tipo mousse|D028|
-Alfajor de dulce de leche|D002|
-Alfajor de fruta|D036|
-Alfajor de maicena|D029|
-Alfajor de miel|D107|
-Alfajor light|D035|
-Alfajor santafesino, tapas cubiertas con glasé|D104|
-Algodón de azúcar|D118|
-Bananita con cobertura de chocolate|D102|
-Barra proteica|D132|
-Barra de arroz rellena bañada|D041|
-Bombones de fruta|D044|
-Caramelos duros|D014|
-Caramelos duros light|D015|
-Caramelos masticables|D013|
-Caramelos rellenos|D012|
-Chicles|D042|
-Chicles sin azúcar|D043|
-Chupetín|D047|
-Conito de dulce de leche envasado|D034|
-Crema saborizada envasada tipo Ducrem|D110|
-Cubanito relleno|D033|
-Garrapiñada de maní|D080|
-Golosinas de merengue y cucurucho tipo Heladitos / Gallinitas|D125|
-Gomitas de gelatina|D048|
-Habanitos de chocolate|D122|
-Malvaviscos|D101|
-Merengues / merenguitos|D040|
-Mielcitas|D106|
-Minitorta bañada|D038|
-Oblea bañada tipo Kit Kat|D032|
-Oblea bañada tipo Nugaton|D039|
-Pastillas|D045|
-Pastillas sin azúcar|D046|
-Postre a base de pasta de maní, tipo Mantecol|D049|
-Rhodesia|D030|
-Tableta de dulce de leche light|D079|
-Tableta de dulce de leche|D078|
-Tita|D031|
-Baño de repostería para cubrir tortas|D052|
-Barra de chocolate tipo Kinder|D053|
-Bocadito con dulce de leche tipo Cabsha|D054|
-Bocadito tipo Dos Corazones|D113|
-Bocadito tipo Marroc|D115|
-Bombón tipo Bon O Bon|D055|
-Bombón de chocolate relleno de licor|D129|
-Cacao amargo*|D050|
-Cacao en polvo sin fortificar*|D018|
-Cacao en polvo tipo Nesquik*|D051|
-Cacao en polvo tipo Zucoa / Zucoa Max instantáneo otros sabores*|D108|
+Alfajor de arroz|D037|True
+Alfajor de chocolate|D001|True
+Alfajor de chocolate con relleno tipo mousse|D028|True
+Alfajor de dulce de leche|D002|True
+Alfajor de fruta|D036|True
+Alfajor de maicena|D029|True
+Alfajor de miel|D107|True
+Alfajor light|D035|True
+Alfajor santafesino, tapas cubiertas con glasé|D104|True
+Algodón de azúcar|D118|True
+Bananita con cobertura de chocolate|D102|True
+Barra proteica|D132|True
+Barra de arroz rellena bañada|D041|True
+Bombones de fruta|D044|True
+Caramelos duros|D014|True
+Caramelos duros light|D015|True
+Caramelos masticables|D013|True
+Caramelos rellenos|D012|True
+Chicles|D042|True
+Chicles sin azúcar|D043|True
+Chupetín|D047|True
+Conito de dulce de leche envasado|D034|True
+Crema saborizada envasada tipo Ducrem|D110|True
+Cubanito relleno|D033|True
+Garrapiñada de maní|D080|True
+Golosinas de merengue y cucurucho tipo Heladitos / Gallinitas|D125|True
+Gomitas de gelatina|D048|True
+Habanitos de chocolate|D122|True
+Malvaviscos|D101|True
+Merengues / merenguitos|D040|True
+Mielcitas|D106|True
+Minitorta bañada|D038|True
+Oblea bañada tipo Kit Kat|D032|True
+Oblea bañada tipo Nugaton|D039|True
+Pastillas|D045|True
+Pastillas sin azúcar|D046|True
+Postre a base de pasta de maní, tipo Mantecol|D049|True
+Rhodesia|D030|True
+Tableta de dulce de leche light|D079|True
+Tableta de dulce de leche|D078|True
+Tita|D031|True
+Baño de repostería para cubrir tortas|D052|True
+Barra de chocolate tipo Kinder|D053|True
+Bocadito con dulce de leche tipo Cabsha|D054|True
+Bocadito tipo Dos Corazones|D113|True
+Bocadito tipo Marroc|D115|True
+Bombón tipo Bon O Bon|D055|True
+Bombón de chocolate relleno de licor|D129|True
+Cacao amargo*|D050|True
+Cacao en polvo sin fortificar*|D018|True
+Cacao en polvo tipo Nesquik*|D051|True
+Cacao en polvo tipo Zucoa / Zucoa Max instantáneo otros sabores*|D108|True
 Cacao, cascarilla*|D117|
-Chips de chocolate|D123|
-Chocolate 60% cacao o más|D057|
-Chocolate amargo|D126|
-Chocolate blanco|D058|
-Chocolate con almendras|D059|
-Chocolate con maní|D056|
-Chocolate relleno con pasta de maní tipo Snickers|D119|
-Chocolate light|D060|
-Chocolate para taza|D016|
-Chocolate relleno de dulce de leche tipo Tofi|D095|
-Chocolatín / chocolate con leche|D017|
-Huevo de chocolate tipo Kinder|D061|
-Lentejas de chocolate|D063|
-Maní con chocolate|D062|
-Medallón de menta y chocolate|D131|
-Pasas de uva con chocolate|D133|
-Bombón helado|D066|
-Helado de agua (heladería)|D064|
-Helado de agua (palito)|D019|
-Helado de crema (heladería)|D020|
-Helado de crema envasado|D065|
-Helado envasado con cucurucho, PROMEDIO|D067|
-Polvo para preparar helado*|D068|
-Torta helada envasada (crema helada varios sabores con base de galleta)|D111|
+Chips de chocolate|D123|True
+Chocolate 60% cacao o más|D057|True
+Chocolate amargo|D126|True
+Chocolate blanco|D058|True
+Chocolate con almendras|D059|True
+Chocolate con maní|D056|True
+Chocolate relleno con pasta de maní tipo Snickers|D119|True
+Chocolate light|D060|True
+Chocolate para taza|D016|True
+Chocolate relleno de dulce deTrue leche tipo Tofi|D095|
+Chocolatín / chocolate con leche|D017|True
+Huevo de chocolate tipo Kinder|D061|True
+Lentejas de chocolate|D063|True
+Maní con chocolate|D062|True
+Medallón de menta y chocolate|D131|True
+Pasas de uva con chocolate|D133|True
+Bombón helado|D066|True
+Helado de agua (heladería)|D064|True
+Helado de agua (palito)|D019|True
+Helado de crema (heladería)|D020|True
+Helado de crema envasado|D065|True
+Helado envasado con cucurucho, PROMEDIO|D067|True
+Polvo para preparar helado*|D068|True
+Torta helada envasada (crema helada varios sabores con base de galleta)|D111|True
 Almíbar|D100|
 Arrope|D026|
-Crema de avellanas con cacao tipo Nutella|D114|
-Dulce de batata|D005|
-Dulce de batata light|D081|
-Dulce de cayote|D073|
-Dulce de leche|D008|
-Dulce de leche light|D077|
-Dulce de mamón|D120|
-Dulce de membrillo|D006|
+Crema de avellanas con cacao tipo Nutella|D114|True
+Dulce de batata|D005|True
+Dulce de batata light|D081|True
+Dulce de cayote|D073|True
+Dulce de leche|D008|True
+Dulce de leche light|D077|True
+Dulce de mamón|D120|True
+Dulce de membrillo|D006|True
 Dulce de membrillo light|D082|
 Dulce de zapallo (compacto)|D128|
-Fondant|D130|
-Grana para decorar tortas|D098|
-Jalea tipo membrillo|D007|
-Kero o melaza|D027|
-Mermelada de frutas|D010|
-Mermelada de frutas light|D025|
+Fondant|D130|True
+Grana para decorar tortas|D098|True
+Jalea tipo membrillo|D007|True
+Kero o melaza|D027|True
+Mermelada de frutas|D010|True
+Mermelada de frutas light|D025|True
 Miel|D011|
 Miel de caña|D134|
 Pulpa de frutas para repostería, coberturas y rellenos (frutilla, arándano o maracuyá)|D099|
-Rapadura|D105|
-Relleno y cobertura para repostería lista para batir, varios sabores|D109|
-Saborizadores Tecknofood, sabores varios (malta, vainilla)|D124|
-Salsa topping de chocolate|D097|
-Salsa topping de dulce de leche|D096|
+Rapadura|D105|True
+Relleno y cobertura para repostería lista para batir, varios sabores|D109|True
+Saborizadores Tecknofood, sabores varios (malta, vainilla)|D124|True
+Salsa topping de chocolate|D097|True
+Salsa topping de dulce de leche|D096|True
 Chicharrón|G017|
 Crema de leche|G013|
-Crema chantilly (lista para consumir, aerosol o industrial preparada)|G018|
+Crema chantilly (lista para consumir, aerosol o industrial preparada)|G018|True
 Crema light|G016|
 Grasa de cerdo|G008|
 Grasa de pollo|G019|
 Grasa vacuna|G009|
-Manteca|G010|
-Manteca light|G015|
-Margarina (en pote y en pan)|G011|
-Margarina untable light|G012|
-Palitos aireados de harina de maíz o de colores|O013|
-Palitos salados|O014|
-Papas fritas de copetín|O015|
-Maní japonés|O043|
-Nachos|O028|
-Snacks saborizados salados a base de maíz|O041|
-Snacks saborizados salados a base de sémola de arroz, horneados, tipo Palitos de arroz / aros de cebolla |O044|
+Manteca|G010|True
+Manteca light|G015|True
+Margarina (en pote y en pan)|G011|True
+Margarina untable light|G012|True
+Palitos aireados de harina de maíz o de colores|O013|True
+Palitos salados|O014|True
+Papas fritas de copetín|O015|True
+Maní japonés|O043|True
+Nachos|O028|True
+Snacks saborizados salados a base de maíz|O041|True
+Snacks saborizados salados a base de sémola de arroz, horneados, tipo Palitos de arroz / aros de cebolla |O044|True
 Aceto balsámico|O022|
 Aderezo Salsa Alioli|O048|
-Aderezo Caesar o Ranch|O021|
-Aderezo para ensaladas light|O045|
-Aderezo Salsa Cheddar|O037|
+Aderezo Caesar o Ranch|O021|True
+Aderezo para ensaladas light|O045|True
+Aderezo Salsa Cheddar|O037|True
 Jugo de limón, envasado|B069|
-Ketchup|O005|
-Mayonesa|O001|
-Mayonesa light|O002|
+Ketchup|O005|True
+Mayonesa|O001|True
+Mayonesa light|O002|True
 Mayonesa de soja|O003|
-Mostaza|O006|
+Mostaza|O006|True
 Salsa a base de tomate en tetra brick o sachet, lista para consumir (ej: pomarola, napolitana, con o sin verdeo, etc.)|O035|
 Salsa agridulce|O047|
-Salsa barbacoa|O020|
-Salsa blanca en polvo envasada*|O049|
+Salsa barbacoa|O020|True
+Salsa blanca en polvo envasada*|O049|True
 Salsa chimichurri envasada|O051|
-Salsa deshidratada varios sabores, polvo*|O046|
-Salsa de soja|O034|
-Salsa Golf|O004|
-Salsa para guiso campero envasada, fortificada*|O040|
+Salsa deshidratada varios sabores, polvo*|O046|True
+Salsa de soja|O034|True
+Salsa Golf|O004|True
+Salsa para guiso campero envasada, fortificada*|O040|True
 Vinagre|O023|
-Caldos en cubo*|O007|
-Caldos en polvo*|O039|
-Caldos en polvo light*|O008|
-Caldos en polvo sin sal light*|O009|
-Sopa crema instantánea preparada|O010|
+Caldos en cubo*|O007|True
+Caldos en polvo*|O039|True
+Caldos en polvo light*|O008|True
+Caldos en polvo sin sal light*|O009|True
+Sopa crema instantánea preparada|O010|True
 Sopa crema preparada a partir de polvo premezcla light|O011|
-Sopa crema preparada a partir de polvo premezcla sin sal light|O012|
-Saborizador en cubos|O024|
-Saborizador en polvo|O038|
-Sopa de fideos deshidratada envasada para preparar*|O025|
-Sopa crema instantánea, polvo para preparar (sabores varios)*|O029|
-Sopa crema instantánea, polvo para preparar light (sabores varios)*|O030|
-Sopa de vegetales instantánea, polvo para preparar*|O036|
-Arroz con leche envasado listo para consumir|D103|
-Arroz con leche envasado sabor caramelo, fortificado|D121|
+Sopa crema preparada a partir de polvo premezcla sin sal light|O012|True
+Saborizador en cubos|O024|True
+Saborizador en polvo|O038|True
+Sopa de fideos deshidratada envasada para preparar*|O025|True
+Sopa crema instantánea, polvo para preparar (sabores varios)*|O029|True
+Sopa crema instantánea, polvo para preparar light (sabores varios)*|O030|True
+Sopa de vegetales instantánea, polvo para preparar*|O036|True
+Arroz con leche envasado listo para consumir|D103|True
+Arroz con leche envasado sabor caramelo, fortificado|D121|True
 Gelatina envasada lista para consumir|D069|
 Gelatina light, preparada a partir de polvo|D022|
 Gelatina preparada a partir de polvo|D021|
-Polvo para preparar flan*|D009|
-Polvo para preparar postre lácteo*|D075|
-Polvo para preparar postre lácteo light*|D076|
-Polvo para preparar mousse de limón / chocolate*|D112|
+Polvo para preparar flan*|D009|True
+Polvo para preparar postre lácteo*|D075|True
+Polvo para preparar postre lácteo light*|D076|True
+Polvo para preparar mousse de limón / chocolate*|D112|True
 Bicarbonato de sodio|O042|
 Sal|O026|
 Sal Marina|O050|
@@ -904,46 +904,46 @@ Sal dietética, sin sodio|O027|
 Sal modificada, 33% Cloruro de sodio|O031|
 Sal modificada, 66% Cloruro de sodio|O032|
 Achilate / achilata|B055|
-Agua saborizada Aquarius, varios sabores|B044|
-Agua saborizada Awafrut, varios sabores|B046|
-Agua saborizada con azúcar, PROMEDIO|B030|
-Agua saborizada Levité, varios sabores|B045|
-Agua saborizada tipo Sierra de los Padres, Manaos, otros|B047|
+Agua saborizada Aquarius, varios sabores|B044|True
+Agua saborizada Awafrut, varios sabores|B046|True
+Agua saborizada con azúcar, PROMEDIO|B030|True
+Agua saborizada Levité, varios sabores|B045|True
+Agua saborizada tipo Sierra de los Padres, Manaos, otros|B047|True
 Amargo serrano*|B001|
-Bebida a base de soja y jugo, varios sabores|B003|
-Bebida a base de soja y jugo, varios sabores light|B004|
-Bebida a base de soja sabor natural|B020|
-Gaseosa con azúcar, PROMEDIO|B008|
-Gaseosa con azúcar, sabor cola|B021|
-Gaseosa con azúcar, sabor lima limón|B022|
-Gaseosa con azúcar, sabor naranja|B023|
-Gaseosa con azúcar, sabor pomelo|B024|
-Gaseosa con azúcar, agua tónica|B025|
-Gatorade, varios sabores|B037|
-Jugo congelado con azúcar en sachet|B054|
-Jugo de fruta envasado varios sabores|B010|
-Jugo en polvo con azúcar, PROMEDIO*|B011|
-Jugo en polvo con azúcar*|B053|
-Jugo concentrado con azúcar para diluir*|B014|
-Powerade, varios sabores|B038|
-Agua saborizada H2O, varios sabores|B049|
+Bebida a base de soja y jugo, varios sabores|B003|True
+Bebida a base de soja y jugo, varios sabores light|B004|True
+Bebida a base de soja sabor natural|B020|True
+Gaseosa con azúcar, PROMEDIO|B008|True
+Gaseosa con azúcar, sabor cola|B021|True
+Gaseosa con azúcar, sabor lima limón|B022|True
+Gaseosa con azúcar, sabor naranja|B023|True
+Gaseosa con azúcar, sabor pomelo|B024|True
+Gaseosa con azúcar, agua tónica|B025|True
+Gatorade, varios sabores|B037|True
+Jugo congelado con azúcar en sachet|B054|True
+Jugo de fruta envasado varios sabores|B010|True
+Jugo en polvo con azúcar, PROMEDIO*|B011|True
+Jugo en polvo con azúcar*|B053|True
+Jugo concentrado con azúcar para diluir*|B014|True
+Powerade, varios sabores|B038|True
+Agua saborizada H2O, varios sabores|B049|True
 Agua saborizada Flip light|B051|
-Agua saborizada Levité Cero, varios sabores light|B048|
-Agua saborizada light, PROMEDIO|B031|
-Agua saborizada We o Ser ligth|B050|
-Amargo serrano light*|B002|
-Gaseosa light, PROMEDIO|B009|
-Gaseosa light, Guaraná|B112|
-Gaseosa light, sabor cola|B026|
-Gaseosa light, sabor lima limón|B027|
-Gaseosa light, sabor naranja|B028|
-Gaseosa light, sabor pomelo|B029|
-Gatorade Zero, varios sabores (sin azúcar)|B039|
-Granadina Zero (sin azúcar)|B131|
-Jugo en polvo BC*|B052|
-Jugo en polvo light*|B012|
-Jugo tipo BC, varios sabores (alimento líquido dietético con 50% de jugo y pulpa)|B121|
-Jugo concentrado para diluir light*|B118|
+Agua saborizada Levité Cero, varios sabores light|B048|True
+Agua saborizada light, PROMEDIO|B031|True
+Agua saborizada We o Ser ligth|B050|True
+Amargo serrano light*|B002|True
+Gaseosa light, PROMEDIO|B009|True
+Gaseosa light, Guaraná|B112|True
+Gaseosa light, sabor cola|B026|True
+Gaseosa light, sabor lima limón|B027|True
+Gaseosa light, sabor naranja|B028|True
+Gaseosa light, sabor pomelo|B029|True
+Gatorade Zero, varios sabores (sin azúcar)|B039|True
+Granadina Zero (sin azúcar)|B131|True
+Jugo en polvo BC*|B052|True
+Jugo en polvo light*|B012|True
+Jugo tipo BC, varios sabores (alimento líquido dietético con 50% de jugo y pulpa)|B121|True
+Jugo concentrado para diluir light*|B118|True
 Powerade Zero, varios sabores (sin azúcar)|B040|
 Ananá Fizz|B129|
 Aperitivo, tipo Gancia|B119|
@@ -1011,34 +1011,34 @@ Té verde en saquitos (ingresar cantidad de saquitos)*|B067|
 Yerba mate para mate cebado (ingresar cantidad en gramos)*|B064|
 Yerba mate para mate cocido (ingresar cantidad en gramos)*|B070|
 Yerba mate para tereré (ingresar cantidad en gramos)*|B074|
-McDonald's, BigMc (ingresar cantidad de porciones)|R053|
-McDonald's, Cajita Feliz, Hamburguesa con queso Grill (ingresar cantidad de porciones)|R046|
-McDonald's, Cajita Feliz, Hamburguesa Grill (ingresar cantidad de porciones)|R045|
-Mc Donald’s, Cajita Feliz, Mc Tostado (ingresar cantidad de porciones)|R043|
-Mc Donald’s, Cajita Feliz, Mc Nuggets X4 (ingresar cantidad de porciones)|R040|
-Mc Donald’s, Cajita Feliz, Papas Kids (ingresar cantidad de porciones)|R041|
-Mc Donald’s, Cajita Feliz, Papas pequeñas (ingresar cantidad de porciones)|R042|
+McDonald's, BigMc (ingresar cantidad de porciones)|R053|True
+McDonald's, Cajita Feliz, Hamburguesa con queso Grill (ingresar cantidad de porciones)|R046|True
+McDonald's, Cajita Feliz, Hamburguesa Grill (ingresar cantidad de porciones)|R045|True
+Mc Donald’s, Cajita Feliz, Mc Tostado (ingresar cantidad de porciones)|R043|True
+Mc Donald’s, Cajita Feliz, Mc Nuggets X4 (ingresar cantidad de porciones)|R040|True
+Mc Donald’s, Cajita Feliz, Papas Kids (ingresar cantidad de porciones)|R041|True
+Mc Donald’s, Cajita Feliz, Papas pequeñas (ingresar cantidad de porciones)|R042|True
 Mc Donald’s, Cajita Feliz, Tomate cherry 50g (ingresar cantidad de porciones)|R044|
 Mc Donald’s, Club House (ingresar cantidad de porciones)|R054|
 Mc Donald’s, Clubhouse/Guacamole/Cryspi Onion BBQ con pollo crispy (ingresar cantidad de porciones)|R058|
 Mc Donald’s, Clubhouse/Guacamole/Cryspi Onion BBQ con pollo grill (ingresar cantidad de porciones)|R059|
-Mc Donald’s, Cono (ingresar cantidad de porciones)|R064|
-Mc Donald’s, Cuarto de Libra (ingresar cantidad de porciones)|R052|
-Mc Donald’s, Doble Cuarto de Libra con queso (ingresar cantidad de porciones)|R049|
-Mc Donald’s, Hamburguesa (ingresar cantidad de porciones)|R047|
-Mc Donald’s, Hamburguesa con queso (ingresar cantidad de porciones)|R048|
-Mc Donald’s, Mcnífica (ingresar cantidad de porciones)|R050|
-Mc Donald’s, McNuggets x 10 (ingresar cantidad de porciones)|R056|
-Mc Donald’s, McPollo Grill (ingresar cantidad de porciones)|R057|
-Mc Donald’s, Papas grandes (ingresar cantidad de porciones)|R063|
-Mc Donald’s, Papas medianas (ingresar cantidad de porciones)|R062|
-Mc Donald’s, Papas pequeñas (ingresar cantidad de porciones)|R061|
+Mc Donald’s, Cono (ingresar cantidad de porciones)|R064|True
+Mc Donald’s, Cuarto de Libra (ingresar cantidad de porciones)|R052|True
+Mc Donald’s, Doble Cuarto de Libra con queso (ingresar cantidad de porciones)|R049|True
+Mc Donald’s, Hamburguesa (ingresar cantidad de porciones)|R047|True
+Mc Donald’s, Hamburguesa con queso (ingresar cantidad de porciones)|R048|True
+Mc Donald’s, Mcnífica (ingresar cantidad de porciones)|R050|True
+Mc Donald’s, McNuggets x 10 (ingresar cantidad de porciones)|R056|True
+Mc Donald’s, McPollo Grill (ingresar cantidad de porciones)|R057|True
+Mc Donald’s, Papas grandes (ingresar cantidad de porciones)|R063|True
+Mc Donald’s, Papas medianas (ingresar cantidad de porciones)|R062|True
+Mc Donald’s, Papas pequeñas (ingresar cantidad de porciones)|R061|True
 Mc Donald’s, Pollo Jr. (ingresar cantidad de porciones)|R060|
-Mc Donald’s, Sundae chocolate (ingresar cantidad de porciones)|R065|
-Mc Donald’s, Sundae dulce de leche (ingresar cantidad de porciones)|R066|
-Mc Donald’s, Mc Flurry Oreo (ingresar cantidad de porciones)|R068|
-Mc Donald’s, Sundae frutilla (ingresar cantidad de porciones)|R067|
-Mc Donald’s, Triple Mac (ingresar cantidad de porciones)|R051|
+Mc Donald’s, Sundae chocolate (ingresar cantidad de porciones)|R065|True
+Mc Donald’s, Sundae dulce de leche (ingresar cantidad de porciones)|R066|True
+Mc Donald’s, Mc Flurry Oreo (ingresar cantidad de porciones)|R068|True
+Mc Donald’s, Sundae frutilla (ingresar cantidad de porciones)|R067|True
+Mc Donald’s, Triple Mac (ingresar cantidad de porciones)|R051|True
 Dextrosa en polvo*|S214|
 Ensure Plus|S008|
 Ensure Plus drink|S009|
