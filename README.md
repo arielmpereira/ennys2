@@ -84,12 +84,13 @@ Se pueden ejecutar los cálculos corriendo:
 
 Salida esperada
 
-      Personas: 21358
-      MHDR_KEY        E_CUEST region        Cobertura_salud   PESO  TALLA       IMC  fecha_entr antropo_fnac antropo_sex  ZPE  ZTE  PTZ
-      0   447/25/38/1/2/2/26/23/53/111/2  18 o mas años    GBA           Solo pública   72.2  153.3  30.72224  2018-09-18   1965-05-04       mujer  NaN  NaN  NaN
-      1  447/25/21/2/6/2/17/23/56/111/11  18 o mas años    GBA  Obra social o prepaga  118.2  170.5  40.66013  2018-09-19   1961-11-07       mujer  NaN  NaN  NaN
-      2   266/43/53/1/3/1/36/23/50/121/3  18 o mas años    NEA           Solo pública   74.5  164.3  27.59822  2018-09-20   1960-01-22       mujer  NaN  NaN  NaN
-      3     266/43/9/1/1/1/6/23/53/111/8  18 o mas años    NEA           Solo pública   54.9  150.0  24.40000  2018-09-20   1965-09-09       mujer  NaN  NaN  NaN
-      4  447/25/118/1/4/1/92/23/34/111/9  18 o mas años    GBA  Obra social o prepaga   98.3  155.6  40.60078  2018-09-20   1984-01-14       mujer  NaN  NaN  NaN
-      Alimentos: 26028
-      Nutrientes: 26028
+      MHDR_KEY        E_CUEST region        Cobertura_salud   PESO  TALLA       IMC  fecha_entr  ... antropo_sex ZPE  ZTE  PTZ  Alerta_IMC  Alerta_PTZ  años_cumplidos  meses_cumplidos
+      0   447/25/38/1/2/2/26/23/53/111/2  18 o mas años    GBA           Solo pública   72.2  153.3  30.72224  2018-09-18  ...       mujer NaN  NaN  NaN         NaN         NaN              53              640
+      1  447/25/21/2/6/2/17/23/56/111/11  18 o mas años    GBA  Obra social o prepaga  118.2  170.5  40.66013  2018-09-19  ...       mujer NaN  NaN  NaN         NaN         NaN              56              682
+      2   266/43/53/1/3/1/36/23/50/121/3  18 o mas años    NEA           Solo pública   74.5  164.3  27.59822  2018-09-20  ...       mujer NaN  NaN  NaN         NaN         NaN              58              703
+      3     266/43/9/1/1/1/6/23/53/111/8  18 o mas años    NEA           Solo pública   54.9  150.0  24.40000  2018-09-20  ...       mujer NaN  NaN  NaN         NaN         NaN              53              636
+      4  447/25/118/1/4/1/92/23/34/111/9  18 o mas años    GBA  Obra social o prepaga   98.3  155.6  40.60078  2018-09-20  ...       mujer NaN  NaN  NaN         NaN         NaN              34              416
+
+      [5 rows x 17 columns]
+      2025-08-27 09:06:07,621 - root - DEBUG - [PruebaNormalidad] D’Agostino and Pearson’s (estadístico, p-value)=NormaltestResult(statistic=np.float64(763.9375388169344), pvalue=np.float64(1.2973919130034978e-166))
+      2025-08-27 09:06:07,621 - root - INFO - [MediaPesoMujeresAdultas] Normalidad peso mujeres adultas = No
