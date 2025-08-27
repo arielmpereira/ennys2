@@ -13,7 +13,9 @@
             "ZPE",
             "ZTE",
             "PTZ",
-            "Cobertura_salud"
+            "Cobertura_salud",
+            "Alerta_PTZ",
+            "Alerta_IMC"
         ],
         "variables_fecha": [
             "fecha_entr",

@@ -31,3 +31,12 @@ La base de datos cuenta con tres tablas. La tabla ENCUESTAS contiene datos de la
 |ENCUESTAS|ZPE|Numérico|Z-score de peso para edad|
 |ENCUESTAS|ZTE|Numérico|Z-score de talla para edad|
 |ENCUESTAS|PTZ|Numérico|Z-score de peso para talla|
+
+## Análisis Paramétrico
+### Muestras apareadas
+
+Obesidad: Aquellos niños y niñas con peso superior al 120% del
+peso medio correspondiente a un niño o niña de su misma longitud/
+estatura, en el caso de la referencia nacional. En el caso de
+prevalencia según la referencia de la OMS se utilizó como valor
+límite +2 desviaciones estándar[1].
